@@ -4,10 +4,17 @@
     <title>Fintech &amp; Payment Gateway Engineers Hub</title>
     <link>https://fintech-payment-gateways-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 06:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:06:16 GMT</lastBuildDate>
     <atom:link href="https://fintech-payment-gateways-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                <item>
+                                                    <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-forum-20260929-1-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 06:06:16 GMT</pubDate>
+      <description>Newly verified community added to Fintech &amp; Payment Gateway Engineers Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Stack Overflow Python Questions (Forum)</title>
       <link>https://stackoverflow.com/questions/tagged/python</link>
       <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-forum-20260927-1-2026-09-27</guid>
