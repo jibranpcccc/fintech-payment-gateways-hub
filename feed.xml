@@ -4,10 +4,17 @@
     <title>Fintech &amp; Payment Gateway Engineers Hub</title>
     <link>https://fintech-payment-gateways-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:08:03 GMT</lastBuildDate>
     <atom:link href="https://fintech-payment-gateways-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-forum-20261017-1-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:08:03 GMT</pubDate>
+      <description>Newly verified community added to Fintech &amp; Payment Gateway Engineers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-forum-20261017-1-2026-10-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-discord-20260920-1-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:07:39 GMT</pubDate>
       <description>Newly verified community added to Fintech &amp; Payment Gateway Engineers Hub: Friendly web development and programming community covering modern web stacks, design, and career growth.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/webdev/</link>
-      <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-reddit-20260919-1-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:05:24 GMT</pubDate>
-      <description>Newly verified community added to Fintech &amp; Payment Gateway Engineers Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
     </item>
   </channel>
 </rss>
