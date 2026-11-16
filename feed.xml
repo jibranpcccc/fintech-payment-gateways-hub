@@ -4,10 +4,17 @@
     <title>Fintech &amp; Payment Gateway Engineers Hub</title>
     <link>https://fintech-payment-gateways-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 06:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:23:36 GMT</lastBuildDate>
     <atom:link href="https://fintech-payment-gateways-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-forum-20261017-1-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 07:23:36 GMT</pubDate>
+      <description>Newly verified community added to Fintech &amp; Payment Gateway Engineers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-forum-20261017-1-2026-11-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-telegram-20261016-1-2026-10-16</guid>
       <pubDate>Fri, 16 Oct 2026 06:05:55 GMT</pubDate>
       <description>Newly verified community added to Fintech &amp; Payment Gateway Engineers Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
-      <link>https://discord.gg/tech</link>
-      <guid isPermaLink="false">https://fintech-payment-gateways-hub.netlify.app/#fintech-payment-gateways-hub-discord-20261015-1-2026-10-15</guid>
-      <pubDate>Thu, 15 Oct 2026 06:05:59 GMT</pubDate>
-      <description>Newly verified community added to Fintech &amp; Payment Gateway Engineers Hub: Global discussion server for engineering disciplines, scientific methodology, and emerging tech.</description>
     </item>
   </channel>
 </rss>
